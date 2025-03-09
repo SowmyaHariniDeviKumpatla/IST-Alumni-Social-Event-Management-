@@ -49,7 +49,7 @@ The **IST Alumni Social Event** provided valuable practical experience in applyi
 
 ## How to Access:
 - You can download the full event report from the link below:
-  - [Event Report PDF](./CLOSING-PROJECT-REPORT.pdf)
+  - [Event Report PDF](./Closing_Project_Report.pdf)
 
 ## Additional Resources:
 - Check out the [LinkedIn post about the IST Alumni Social Event](https://www.linkedin.com/posts/sowmya-kumpatla_istalumnisocial-umsl-collegeofbusiness-activity-7262923897048576000-BtTK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADClM1YBPq30oEY9VXTU1ObBc9wrOD8klNA) where many people reposted and commented on the event's success.
